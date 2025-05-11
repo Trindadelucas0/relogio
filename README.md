@@ -1,6 +1,6 @@
 # 🕒 Relógio Dinâmico - Projeto de Relógio Digital
 
-Este projeto é um **relógio digital** desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual em tempo real, atualizando automaticamente os segundos, minutos e horas. Ideal para praticar manipulação de tempo e DOM em JavaScript.:contentReference[oaicite:2]{index=2}
+Este projeto é um **relógio digital** desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual em tempo real, atualizando automaticamente os segundos, minutos e horas. Ideal para praticar manipulação de tempo e DOM em JavaScript.
 
 ## 🚀 Como Acessar
 ---
